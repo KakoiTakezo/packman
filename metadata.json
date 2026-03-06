@@ -1,0 +1,5 @@
+{
+  "name": "Neon Pac-Man",
+  "description": "A classic arcade-style maze game with neon aesthetics. Navigate the maze, collect pellets, and avoid the ghosts using WASD keys.",
+  "requestFramePermissions": []
+}
